@@ -39,7 +39,7 @@ Proje aşağıdaki temel modülleri içermektedir:
 
 1.  Projeyi bilgisayarınıza klonlayın:
     ```bash
-    git clone https://github.com/kullaniciadi/repo-adi.git
+    git clone https://github.com/YerdemA/Arac-Kiralama-Otomasyonu.git
     ```
 2.  Visual Studio 2022'de `WinFormsApp2.sln` dosyasını açın.
 3.  SQL Server bağlantı ayarlarınızı yapılandırın (Proje içerisindeki bağlantı dizelerini yerel veritabanınıza göre güncelleyin).
