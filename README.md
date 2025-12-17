@@ -35,6 +35,11 @@ Proje aşağıdaki temel modülleri içermektedir:
 *   **UI Framework:** DevExpress WinForms Controls (v24.2.3)
 *   **Veri Erişimi:** Microsoft.Data.SqlClient / System.Data.SqlClient
 
+## 🖼️ Otomasyondan Görseller
+<img width="667" height="475" alt="image" src="https://github.com/user-attachments/assets/3eef9432-11fc-40d4-9e28-16ea053dcbdb" />
+<img width="756" height="508" alt="image" src="https://github.com/user-attachments/assets/d700e674-45f8-42b2-af11-86dcc6ee2d96" />
+<img width="757" height="671" alt="image" src="https://github.com/user-attachments/assets/944f2424-18e1-4242-ac2c-b2133e5d7e90" />
+
 ## ⚙️ Kurulum
 
 1.  Projeyi bilgisayarınıza klonlayın:
